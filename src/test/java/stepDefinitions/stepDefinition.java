@@ -30,6 +30,12 @@ public class stepDefinition {
 	    @When("^Broser is triggered$")
 	    public void broser_is_triggered() throws Throwable {
 	    	System.out.println("Browser triggered");
+	    	System.out.println("Browser triggered");
+	    	System.out.println("Browser triggered");
+	    	System.out.println("Browser triggered");
+	    	System.out.println("Browser triggered");
+	    	System.out.println("Browser triggered");
+	    	
 	        
 	    }
 
