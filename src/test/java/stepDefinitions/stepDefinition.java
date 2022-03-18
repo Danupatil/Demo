@@ -35,12 +35,21 @@ public class stepDefinition {
 	    	System.out.println("Browser triggered");
 	    	System.out.println("Browser triggered");
 	    	System.out.println("Browser triggered");
-	    	
+	    	 
 	        
 	    }
 
 	    @Then("^Check if browser is started$")
 	    public void check_if_browser_is_started() throws Throwable {
+	    	System.out.println("checked broser");
+	    	System.out.println("checked broser");
+	    	System.out.println("checked broser");
+	    	System.out.println("checked broser");
+	    	System.out.println("checked broser");
+	    	System.out.println("checked broser");
+	    	System.out.println("checked broser");
+	    	System.out.println("checked broser");
+	    	System.out.println("checked broser");
 	    	System.out.println("checked broser");
 	        
 	    }
