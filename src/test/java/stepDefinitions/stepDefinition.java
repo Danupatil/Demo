@@ -18,6 +18,12 @@ public class stepDefinition {
 	 @Given("^Validate the browser$")
 	    public void validate_the_browser() throws Throwable {
 		 System.out.println("browser validated");
+		 System.out.println("browser validated");
+		 System.out.println("browser validated");
+		 System.out.println("browser validated");
+		 System.out.println("browser validated");
+		 System.out.println("browser validated");
+		 
 	        
 	    }
 
