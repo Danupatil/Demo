@@ -12,7 +12,7 @@ import io.cucumber.junit.Cucumber;
         (
 
                 features ="src/test/java/Features",
-                glue = "stepDefinitions",tags= ("@Portaltest"), dryRun = true,monochrome = true,
+                glue = "stepDefinitions", dryRun = false,monochrome = true,
                 plugin = {"pretty","html:target/cucumber.html","json:target/cucumber.json","junit:target/cucumber.xml"} 
                
         )
