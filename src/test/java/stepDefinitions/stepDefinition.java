@@ -18,11 +18,7 @@ public class stepDefinition {
 	 @Given("^Validate the browser$")
 	    public void validate_the_browser() throws Throwable {
 		 System.out.println("browser validated");
-		 System.out.println("browser validated");
-		 System.out.println("browser validated");
-		 System.out.println("browser validated");
-		 System.out.println("browser validated");
-		 System.out.println("browser validated");
+		
 		 
 	        
 	    }
@@ -30,11 +26,7 @@ public class stepDefinition {
 	    @When("^Broser is triggered$")
 	    public void broser_is_triggered() throws Throwable {
 	    	System.out.println("Browser triggered");
-	    	System.out.println("Browser triggered");
-	    	System.out.println("Browser triggered");
-	    	System.out.println("Browser triggered");
-	    	System.out.println("Browser triggered");
-	    	System.out.println("Browser triggered");
+	    
 	    	 
 	        
 	    }
@@ -42,15 +34,7 @@ public class stepDefinition {
 	    @Then("^Check if browser is started$")
 	    public void check_if_browser_is_started() throws Throwable {
 	    	System.out.println("checked broser");
-	    	System.out.println("checked broser");
-	    	System.out.println("checked broser");
-	    	System.out.println("checked broser");
-	    	System.out.println("checked broser");
-	    	System.out.println("checked broser");
-	    	System.out.println("checked broser");
-	    	System.out.println("checked broser");
-	    	System.out.println("checked broser");
-	    	System.out.println("checked broser");
+	    	
 	        
 	    }
 
