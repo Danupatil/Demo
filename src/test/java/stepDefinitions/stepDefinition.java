@@ -43,6 +43,7 @@ public class stepDefinition {
 	    public void user_is_on_netbanking_landing_page() throws Throwable {
 		 //
 			  System.out.println("Navigate to login url");
+			  System.out.println("Navigate to login url");
 	        
 	    }
 
